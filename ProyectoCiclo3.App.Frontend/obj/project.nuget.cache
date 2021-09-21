@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zrKMWqShVcj6l9Dyayxep3w7/mnAsoA7VPVltHKXADozmtuSzHPx1qLQbcsOkqF5xhlfs85Pzo+Sp0eKbRvEw==",
+  "success": true,
+  "projectFilePath": "D:\\ONEDRIVE WIS\\OneDrive\\MISION TIC 2022\\CICLO 2\\PBS\\ProyectoCiclo3.App\\ProyectoCiclo3.App.Frontend\\ProyectoCiclo3.App.Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
